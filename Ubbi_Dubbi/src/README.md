@@ -1,6 +1,6 @@
 # Ubbi Dubbi Translator
 
-A simple Python program that translates English words and sentences into **Ubbi Dubbi**.
+A simple Python program that translates English words and sentences into **Ubbi Dubbi ** .
 
 ## What is Ubbi Dubbi?
 
